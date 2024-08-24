@@ -1,0 +1,19 @@
+Cricket Bat
+Cricket Ball
+Helmet
+Pads
+Gloves
+Batting Gloves
+Wicketkeeping Gloves
+Abdominal Guard (Box)
+Thigh Guard
+Arm Guard
+Chest Guard
+Wicketkeeper Pads
+Cricket Clothing
+Cricket Whites
+Colored Kits
+Spikes Shoes
+Stumps
+Bails
+Cricket Bag
